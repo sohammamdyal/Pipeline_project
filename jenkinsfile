@@ -19,20 +19,5 @@ pipeline{
            
         }
     }
-
-
-    post{
-
-      
-    success{
-
-            bat "build success"
-    }
-
-    failure{
-
-        bat "build failed"
-    }
-}
 }
 
