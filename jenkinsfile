@@ -23,10 +23,7 @@ pipeline{
 
     post{
 
-        always {
-
-            bat "This will always run"
-        }
+      
     success{
 
             bat "build success"
