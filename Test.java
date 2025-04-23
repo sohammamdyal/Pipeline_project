@@ -4,6 +4,7 @@ class Test{
         System.out.println("This is a test.");
         System.out.println("Goodbye, World!");
         System.out.println("This is a test.");
+        System.out.println("Goodbye, World!");
 
         // System.out.println("This is a test.");
         // System.out.println("Goodbye, World!");
